@@ -1,0 +1,11 @@
+C:\Users\gakus\Documents\CodingDojo\05_c#_stack\language_fundamentals\oop_with_c#\human\bin\Debug\netcoreapp2.2\human.deps.json
+C:\Users\gakus\Documents\CodingDojo\05_c#_stack\language_fundamentals\oop_with_c#\human\bin\Debug\netcoreapp2.2\human.runtimeconfig.json
+C:\Users\gakus\Documents\CodingDojo\05_c#_stack\language_fundamentals\oop_with_c#\human\bin\Debug\netcoreapp2.2\human.runtimeconfig.dev.json
+C:\Users\gakus\Documents\CodingDojo\05_c#_stack\language_fundamentals\oop_with_c#\human\bin\Debug\netcoreapp2.2\human.dll
+C:\Users\gakus\Documents\CodingDojo\05_c#_stack\language_fundamentals\oop_with_c#\human\bin\Debug\netcoreapp2.2\human.pdb
+C:\Users\gakus\Documents\CodingDojo\05_c#_stack\language_fundamentals\oop_with_c#\human\obj\Debug\netcoreapp2.2\human.csprojAssemblyReference.cache
+C:\Users\gakus\Documents\CodingDojo\05_c#_stack\language_fundamentals\oop_with_c#\human\obj\Debug\netcoreapp2.2\human.csproj.CoreCompileInputs.cache
+C:\Users\gakus\Documents\CodingDojo\05_c#_stack\language_fundamentals\oop_with_c#\human\obj\Debug\netcoreapp2.2\human.AssemblyInfoInputs.cache
+C:\Users\gakus\Documents\CodingDojo\05_c#_stack\language_fundamentals\oop_with_c#\human\obj\Debug\netcoreapp2.2\human.AssemblyInfo.cs
+C:\Users\gakus\Documents\CodingDojo\05_c#_stack\language_fundamentals\oop_with_c#\human\obj\Debug\netcoreapp2.2\human.dll
+C:\Users\gakus\Documents\CodingDojo\05_c#_stack\language_fundamentals\oop_with_c#\human\obj\Debug\netcoreapp2.2\human.pdb
